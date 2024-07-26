@@ -71,3 +71,5 @@ function generateRecommendations(chatId) {
 }
 
 console.log('Bot is running...');
+
+//changed the versal nodejs version 20 to 18
