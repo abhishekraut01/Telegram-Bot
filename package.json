@@ -1,0 +1,17 @@
+{
+	"name": "metabix",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "^1.20.2",
+		"dotenv": "^16.4.5",
+		"express": "^4.19.2",
+		"node-telegram-bot-api": "^0.66.0"
+	}
+}
